@@ -5,7 +5,7 @@
 
 <!-- ===================== NEON TYPING EFFECT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&center=true&vCenter=true&width=950&color=00E5FF&lines=Java+Backend+Developer;Spring+Boot+Microservices+Architect;Kafka+%7C+Docker+%7C+REST+APIs;Enterprise+Grade+Secure+Systems;Cloud-Native+Scalable+Backends" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&center=true&vCenter=true&width=950&color=00E5FF&lines=web+Developer;Spring+Boot+Microservices+Architect;Kafka+%7C+Docker+%7C+REST+APIs;Enterprise+Grade+Secure+Systems;Cloud-Native+Scalable+Backends" />
 </p>
 
 ---
