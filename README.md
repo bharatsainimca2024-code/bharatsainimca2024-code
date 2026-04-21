@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-🎯 **Java Backend Developer** focused on **enterprise-grade, scalable & secure backend systems**.  
+🎯 **web Developer** focused on **enterprise-grade, scalable & secure backend systems**.  
 I specialize in **microservices architecture**, **event-driven platforms**, and **cloud-ready systems** used in real-world production.
 
 - 🎓 **MCA** — Meerut Institute of Engineering & Technology (MIET)
-- 🎓 **BCA** — Vidya Knowledge Park
+- 🎓 **BSC** — Meerut College 
 - 💼 **Java Developer Intern** — Retax Infotech Pvt Ltd & SolSoN Tech Pvt Ltd
 - 🔥 Expertise: **Spring Boot, Kafka, Docker, System Design**
 - 📍 Meerut, India 🇮🇳
