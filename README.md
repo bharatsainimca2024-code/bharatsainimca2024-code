@@ -1,6 +1,6 @@
 <!-- ===================== DARK PREMIUM BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:203a43&text=Bharat%20Saini&fontColor=00E5FF&fontSize=50&fontAlignY=38&animation=twinkling&desc=web%20Backend%20Developer%20|%20react%20Engineer&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:203a43&text=Bharat%20Saini&fontColor=00E5FF&fontSize=50&fontAlignY=38&animation=twinkling&desc=Web%20Backend%20Developer%20|%20react%20Engineer&descAlignY=58&descSize=22" />
 </p>
 
 <!-- ===================== NEON TYPING EFFECT ===================== -->
@@ -49,7 +49,7 @@ I specialize in **frontend**, **event-driven platforms**, and **cloud-ready syst
 
 ### 🔥 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Frameworks
