@@ -1,11 +1,11 @@
 <!-- ===================== DARK PREMIUM BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:203a43&text=Bharat%20Saini&fontColor=00E5FF&fontSize=50&fontAlignY=38&animation=twinkling&desc=Java%20Backend%20Developer%20|%20Microservices%20Engineer&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:203a43&text=Bharat%20Saini&fontColor=00E5FF&fontSize=50&fontAlignY=38&animation=twinkling&desc=web%20Backend%20Developer%20|%20react%20Engineer&descAlignY=58&descSize=22" />
 </p>
 
 <!-- ===================== NEON TYPING EFFECT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&center=true&vCenter=true&width=950&color=00E5FF&lines=web+Developer;Spring+Boot+Microservices+Architect;Kafka+%7C+Docker+%7C+REST+APIs;Enterprise+Grade+Secure+Systems;Cloud-Native+Scalable+Backends" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&center=true&vCenter=true&width=950&color=00E5FF&lines=web+Developer;Html+css+javascript+react;Kafka+%7C+Docker+%7C+REST+APIs;Enterprise+Grade+Secure+Systems;Cloud-Native+Scalable+Backends" />
 </p>
 
 ---
@@ -13,12 +13,12 @@
 ## 👨‍💻 About Me
 
 🎯 **web Developer** focused on **enterprise-grade, scalable & secure backend systems**.  
-I specialize in **microservices architecture**, **event-driven platforms**, and **cloud-ready systems** used in real-world production.
+I specialize in **frontend**, **event-driven platforms**, and **cloud-ready systems** used in real-world production.
 
 - 🎓 **MCA** — Meerut Institute of Engineering & Technology (MIET)
 - 🎓 **BSC** — Meerut College 
 - 💼 **Java Developer Intern** — Retax Infotech Pvt Ltd & SolSoN Tech Pvt Ltd
-- 🔥 Expertise: **Spring Boot, Kafka, Docker, System Design**
+- 🔥 Expertise: **Html,css, javascript, python, System Design**
 - 📍 Meerut, India 🇮🇳
 
 ---
