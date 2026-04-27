@@ -81,7 +81,8 @@
 
 ## 💡 Current Goal
 
-> To get an opportunity where I can apply my skills, learn new technologies, and grow as a software developer.
+> Focused on developing clean, efficient code and building impactful web applications using modern technologies.
+> .
 
 ---
 
